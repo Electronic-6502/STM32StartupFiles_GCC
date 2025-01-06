@@ -1,5 +1,5 @@
 # STM32StartupFiles_GCC
- popular STM32 Startup (.s) Files, for ARM-GCC ( GNU ARM Embedded Toolchain )
+ popular STM32 Startup Assembly(.s) Files, for ARM-GCC ( GNU ARM Embedded Toolchain )
  All Files is Tested and Verified
 
 # List of Supported STM32 Chips
